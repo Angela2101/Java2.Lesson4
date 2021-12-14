@@ -3,7 +3,7 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-        String[] words = {"orange", "apple", "banan", "raspberry", "banan", "raspberry", "banan", "apple", "pear", "pear"};
+        String[] words = {"orange", "apple", "pear", "raspberry", "banan", "raspberry", "banan", "apple", "pear", "pear"};
 
         // Задание 1
         System.out.println("Cписок уникальных слов");
